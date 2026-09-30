@@ -228,7 +228,6 @@
             this.radioButton1.Text = "Wav -> AT9";
             this.toolTip1.SetToolTip(this.radioButton1, "Convert Wav file to AT9");
             this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -245,7 +244,6 @@
             this.radioButton2.Text = "AT9 -> Wav";
             this.toolTip1.SetToolTip(this.radioButton2, "Convert AT9 file to Wav");
             this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -262,7 +260,6 @@
             this.radioButton3.Text = "MP3 -> AT9";
             this.toolTip1.SetToolTip(this.radioButton3, "Convert MP3 File to AT9");
             this.radioButton3.UseVisualStyleBackColor = true;
-            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton4
             // 
@@ -279,7 +276,6 @@
             this.radioButton4.Text = "AT9 -> MP3";
             this.toolTip1.SetToolTip(this.radioButton4, "Convert AT9 file to MP3");
             this.radioButton4.UseVisualStyleBackColor = true;
-            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // label1
             // 
@@ -446,7 +442,6 @@
             this.radioButton5.Text = "Wav -> AT3";
             this.toolTip1.SetToolTip(this.radioButton5, "Convert Wav file to AT3");
             this.radioButton5.UseVisualStyleBackColor = true;
-            this.radioButton5.CheckedChanged += new System.EventHandler(this.radioButton5_CheckedChanged);
             // 
             // radioButton6
             // 
@@ -463,7 +458,6 @@
             this.radioButton6.Text = "AT3 -> Wav";
             this.toolTip1.SetToolTip(this.radioButton6, "Convert AT3 file to Wav");
             this.radioButton6.UseVisualStyleBackColor = true;
-            this.radioButton6.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
             // 
             // radioButton7
             // 
@@ -480,7 +474,6 @@
             this.radioButton7.Text = "MP3 -> AT3";
             this.toolTip1.SetToolTip(this.radioButton7, "Convert MP3 file to AT3");
             this.radioButton7.UseVisualStyleBackColor = true;
-            this.radioButton7.CheckedChanged += new System.EventHandler(this.radioButton7_CheckedChanged);
             // 
             // radioButton8
             // 
@@ -497,7 +490,6 @@
             this.radioButton8.Text = "AT3 -> MP3";
             this.toolTip1.SetToolTip(this.radioButton8, "Convert AT3 file to MP3");
             this.radioButton8.UseVisualStyleBackColor = true;
-            this.radioButton8.CheckedChanged += new System.EventHandler(this.radioButton8_CheckedChanged);
             // 
             // label2
             // 

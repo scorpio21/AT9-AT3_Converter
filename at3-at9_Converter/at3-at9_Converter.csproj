@@ -98,6 +98,11 @@
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="Services\AudioConverterService.cs" />
+    <Compile Include="Services\BitrateConfig.cs" />
+    <Compile Include="Services\DialogService.cs" />
+    <Compile Include="Services\FileManager.cs" />
+    <Compile Include="Services\LanguageService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormChooser.resx">
       <DependentUpon>FormChooser.cs</DependentUpon>
